@@ -1,2 +1,8 @@
 #!/bin/bash
+<<<<<<< ours
 echo "ALX School is so cool!"
+||||||| base
+echo "ALX"
+=======
+echo "ALX School"
+>>>>>>> theirs
